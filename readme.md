@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-本项目旨在从懂车帝网站（https://www.dongchedi.com）爬取汽车系列及其模型的信息和相关图片。项目分为两大部分：首先使用Selenium和BeautifulSoup库爬取汽车系列的基本信息，并将这些信息保存到CSV文件中；然后，通过requests和BeautifulSoup库对每个汽车系列的模型进行深入爬取，获取模型的详细信息和图片，最终将图片保存到本地，并将模型信息存储到另一个CSV文件中。
+本项目旨在从懂车帝网站（https://www.dongchedi.com ） 爬取汽车系列及其模型的信息和相关图片。项目分为两大部分：首先使用Selenium和BeautifulSoup库爬取汽车系列的基本信息，并将这些信息保存到CSV文件中；然后，通过requests和BeautifulSoup库对每个汽车系列的模型进行深入爬取，获取模型的详细信息和图片，最终将图片保存到本地，并将模型信息存储到另一个CSV文件中。
 
 ## 环境依赖
 
